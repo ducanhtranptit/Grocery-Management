@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-	baseURL: "http://14.225.36.229:8080/",
+	baseURL: "https://backend.grocerymanagement.id.vn/",
 });
